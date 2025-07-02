@@ -1,2 +1,2 @@
 # TrailTales
-Ski-themed social media app.
+Ski-themed social media app (backend).
